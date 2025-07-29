@@ -1,0 +1,11 @@
+API ENDPOINTS (algunos no funcionan):
+
+GET /products - lista productos
+POST /products - crea producto
+PUT /products/<id> - actualiza producto
+DELETE /products/<id> - elimina producto
+
+GET /users - lista usuarios (solo admin)
+POST /login - login usuario
+
+NOTA: El endpoint de reports sigue en desarrollo. Última actualización: hace 6 meses

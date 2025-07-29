@@ -1,0 +1,5 @@
+id,username,password,name,role
+1,admin,admin123,Administrator,admin
+2,user1,password,Juan Pérez,user
+3,test,test123,Test User,user
+4,maria,123456,María García,user
