@@ -35,7 +35,7 @@ Nuestro equipo ha reportado algunos inconvenientes durante el uso diario:
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/CatalinaSchencke/fix-a-thon-pucv-2025.git
-   cd shop_manager_v2.3.1
+   cd fix-a-thon-pucv-2025
    ```
 
 2. **Instalar dependencias**
